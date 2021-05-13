@@ -1,0 +1,10 @@
+admin
+123
+root
+qwerty
+amanda
+b4c2up
+user
+password
+igor
+666
